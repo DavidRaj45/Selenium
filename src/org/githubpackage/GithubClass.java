@@ -5,7 +5,7 @@ public class GithubClass {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("code added to github");
+		System.out.println("farook code has been added");
 		
 		
 	}
